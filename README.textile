@@ -1,0 +1,1 @@
+Framework for a Wikipedia infobox scraper. Currently it hard-codes a single article name and a unique key for that article and stores the infobox data from that article.
